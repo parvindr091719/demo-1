@@ -1,0 +1,19 @@
+#nav-logo-sprites{
+    -webkit-text-size-adjust: 100%;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 0;
+    color: #007185;
+    -webkit-box-sizing: border-box;
+    clear: both;
+    cursor: pointer;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    position: static;
+    float: none;
+    flex-shrink: 0;
+    text-decoration: none;
+    padding: 1px 8px 0 6px;
+    margin: 1px;
+}
